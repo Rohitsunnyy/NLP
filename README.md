@@ -1,6 +1,6 @@
 # NLP Repository
 
-![NLP Project](img.webp)
+![NLP Project](img.jpeg)
 
 ## Overview
 
